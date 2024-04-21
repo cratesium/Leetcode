@@ -1,5 +1,5 @@
-# LeetCode Solutions
-
+**# LeetCode Solutions
+**
 ## Author: Shikhar Partap Singh
 
 Welcome to my LeetCode solutions repository! In this repository, I will be sharing my solutions to various LeetCode problems. Please note that I will implement only the functions required to solve the problems, not the entire code.
