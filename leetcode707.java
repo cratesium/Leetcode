@@ -100,6 +100,7 @@ class MyLinkedList {
                 temp.next = temp.next.next;
             }
         } catch (Exception e) {
+            System.out.println();
             e.printStackTrace();
         }
     }
